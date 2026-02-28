@@ -53,7 +53,7 @@ game (
 
 game (
 	comment "64 Hanafuda - Tenshi no Yakusoku (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2B43006C )
 )
 
@@ -113,7 +113,7 @@ game (
 
 game (
 	comment "AI Shougi 3 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 43022243 )
 )
 
@@ -323,7 +323,7 @@ game (
 
 game (
 	comment "Bakushou Jinsei 64 - Mezase! Resort Ou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5FD42464 )
 )
 
@@ -1781,7 +1781,7 @@ game (
 
 game (
 	comment "Goemon - Mononoke Sugoroku (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F6BACBAC )
 )
 
@@ -2027,7 +2027,7 @@ game (
 
 game (
 	comment "Ide Yosuke no Mahjong Juku (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 32003C85 )
 )
 
@@ -2177,7 +2177,7 @@ game (
 
 game (
 	comment "Jangou Simulation Mahjong Dou 64 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 27E9853C )
 )
 
@@ -2363,7 +2363,7 @@ game (
 
 game (
 	comment "Jinsei Game 64 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 888B4265 )
 )
 
@@ -2753,13 +2753,13 @@ game (
 
 game (
 	comment "Mahjong Hourouki Classic (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc FD9EA0D5 )
 )
 
 game (
 	comment "Mahjong 64 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 0FB9138C )
 )
 
@@ -2777,7 +2777,7 @@ game (
 
 game (
 	comment "Mahjong Master (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc DB0B662A )
 )
 
@@ -2855,73 +2855,73 @@ game (
 
 game (
 	comment "Mario Party (Europe) (En,Fr,De)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 6973373F )
 )
 
 game (
 	comment "Mario Party (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 4717CD1B )
 )
 
 game (
 	comment "Mario Party (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 7D387E37 )
 )
 
 game (
 	comment "Mario Party 2 (Europe) (En,Fr,De,Es,It)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 8C0C8BEC )
 )
 
 game (
 	comment "Mario Party 2 (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E19BF21C )
 )
 
 game (
 	comment "Mario Party 2 (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 3BA5471B )
 )
 
 game (
 	comment "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc DCA66040 )
 )
 
 game (
 	comment "Mario Party 2 (Japan) (Wii Virtual Console)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc FDC89220 )
 )
 
 game (
 	comment "Mario Party 2 (USA) (Wii Virtual Console)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 6F45853E )
 )
 
 game (
 	comment "Mario Party 3 (Europe) (En,Fr,De,Es)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc A5D78A36 )
 )
 
 game (
 	comment "Mario Party 3 (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc A1BEE3F8 )
 )
 
 game (
 	comment "Mario Party 3 (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 703586D1 )
 )
 
@@ -2933,7 +2933,7 @@ game (
 
 game (
 	comment "Mario Party 3 (USA) (Beta)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 697C1777 )
 )
 
@@ -3143,7 +3143,7 @@ game (
 
 game (
 	comment "Monopoly (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 416B1F8F )
 )
 
@@ -3155,7 +3155,7 @@ game (
 
 game (
 	comment "Morita Shougi 64 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 377B7580 )
 )
 
@@ -4091,19 +4091,19 @@ game (
 
 game (
 	comment "Pro Mahjong Kiwame 64 (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc FB5FCD97 )
 )
 
 game (
 	comment "Pro Mahjong Kiwame 64 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 01E83335 )
 )
 
 game (
 	comment "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 388DA567 )
 )
 
@@ -4241,7 +4241,7 @@ game (
 
 game (
 	comment "Razmoket, Les - La Chasse aux Tresors (France)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc D6C8D961 )
 )
 
@@ -4415,13 +4415,13 @@ game (
 
 game (
 	comment "Rugrats - Die grosse Schatzsuche (Germany)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E1D7919F )
 )
 
 game (
 	comment "Rugrats - Scavenger Hunt (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc EA79AD0A )
 )
 
@@ -4439,7 +4439,7 @@ game (
 
 game (
 	comment "Rugrats - Treasure Hunt (Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 65EDE901 )
 )
 
@@ -4481,7 +4481,7 @@ game (
 
 game (
 	comment "Saikyou Habu Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc E8D0810B )
 )
 
@@ -5693,7 +5693,7 @@ game (
 
 game (
 	comment "Virtual Chess 64 (USA) (En,Fr,Es)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 3CD894C4 )
 )
 
@@ -5705,7 +5705,7 @@ game (
 
 game (
 	comment "Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc D20F855C )
 )
 
@@ -6245,7 +6245,7 @@ game (
 
 game (
 	comment "64 Hanafuda - Tenshi no Yakusoku (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 60A680E7 )
 )
 
@@ -6341,7 +6341,7 @@ game (
 
 game (
 	comment "AI Shougi 3 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 86DF90E6 )
 )
 
@@ -6515,7 +6515,7 @@ game (
 
 game (
 	comment "Bakushou Jinsei 64 - Mezase! Resort Ou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc EF8C2F34 )
 )
 
@@ -7973,7 +7973,7 @@ game (
 
 game (
 	comment "Goemon - Mononoke Sugoroku (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 965C4575 )
 )
 
@@ -8207,7 +8207,7 @@ game (
 
 game (
 	comment "Ide Yosuke no Mahjong Juku (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc DBD96DEB )
 )
 
@@ -8387,7 +8387,7 @@ game (
 
 game (
 	comment "Jangou Simulation Mahjong Dou 64 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D1C1681E )
 )
 
@@ -8549,7 +8549,7 @@ game (
 
 game (
 	comment "Jinsei Game 64 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 67A1A22C )
 )
 
@@ -8957,19 +8957,19 @@ game (
 
 game (
 	comment "Mahjong 64 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc DBE7D51A )
 )
 
 game (
 	comment "Mahjong Master (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B68D596F )
 )
 
 game (
 	comment "Mahjong Hourouki Classic (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 990A8E54 )
 )
 
@@ -9047,73 +9047,73 @@ game (
 
 game (
 	comment "Mario Party (Europe) (En,Fr,De)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc DA98A5D3 )
 )
 
 game (
 	comment "Mario Party (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 4F1ADC7B )
 )
 
 game (
 	comment "Mario Party (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 4D60ABE5 )
 )
 
 game (
 	comment "Mario Party 2 (Europe) (En,Fr,De,Es,It)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc DC00357A )
 )
 
 game (
 	comment "Mario Party 2 (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 7457B081 )
 )
 
 game (
 	comment "Mario Party 2 (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E58A1955 )
 )
 
 game (
 	comment "Mario Party 2 (Europe) (En,Fr,De,Es,It) (Wii Virtual Console)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc DCA66040 )
 )
 
 game (
 	comment "Mario Party 2 (USA) (Wii Virtual Console)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 6F45853E )
 )
 
 game (
 	comment "Mario Party 2 (Japan) (Wii Virtual Console)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc FDC89220 )
 )
 
 game (
 	comment "Mario Party 3 (Europe) (En,Fr,De,Es)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 813B13F2 )
 )
 
 game (
 	comment "Mario Party 3 (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 3FC04053 )
 )
 
 game (
 	comment "Mario Party 3 (USA) (Beta)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 697C1777 )
 )
 
@@ -9125,7 +9125,7 @@ game (
 
 game (
 	comment "Mario Party 3 (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc B7445DDC )
 )
 
@@ -9317,7 +9317,7 @@ game (
 
 game (
 	comment "Monopoly (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc C8CAD8F6 )
 )
 
@@ -9347,7 +9347,7 @@ game (
 
 game (
 	comment "Morita Shougi 64 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 88C83511 )
 )
 
@@ -10277,7 +10277,7 @@ game (
 
 game (
 	comment "Pro Mahjong Kiwame 64 (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B9BE7B90 )
 )
 
@@ -10289,13 +10289,13 @@ game (
 
 game (
 	comment "Pro Mahjong Tsuwamono 64 - Jansou Battle ni Chousen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 35461699 )
 )
 
 game (
 	comment "Pro Mahjong Kiwame 64 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 1F5907F9 )
 )
 
@@ -10433,7 +10433,7 @@ game (
 
 game (
 	comment "Razmoket, Les - La Chasse aux Tresors (France)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 66766469 )
 )
 
@@ -10607,19 +10607,19 @@ game (
 
 game (
 	comment "Rugrats - Die grosse Schatzsuche (Germany)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 23AED3A2 )
 )
 
 game (
 	comment "Rugrats - Scavenger Hunt (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc A87FAF82 )
 )
 
 game (
 	comment "Rugrats - Treasure Hunt (Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 3338B7C8 )
 )
 
@@ -10661,7 +10661,7 @@ game (
 
 game (
 	comment "Saikyou Habu Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 01794D62 )
 )
 
@@ -11873,7 +11873,7 @@ game (
 
 game (
 	comment "Virtual Chess 64 (Europe) (En,Fr,De,Es,It,Nl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc AAE15243 )
 )
 
@@ -11897,7 +11897,7 @@ game (
 
 game (
 	comment "Virtual Chess 64 (USA) (En,Fr,Es)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 620DE0B7 )
 )
 

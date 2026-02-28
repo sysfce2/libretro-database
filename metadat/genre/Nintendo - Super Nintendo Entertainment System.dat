@@ -47,7 +47,7 @@ game (
 
 game (
 	comment "4-nin Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9008C18A )
 )
 
@@ -959,7 +959,7 @@ game (
 
 game (
 	comment "Asahi Shinbun Rensai - Katou Hifumi Kudan Shougi - Shingiryuu (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 506A8F77 )
 )
 
@@ -1649,7 +1649,7 @@ game (
 
 game (
 	comment "Bishoujo Janshi Suchie-Pai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 11713982 )
 )
 
@@ -1661,7 +1661,7 @@ game (
 
 game (
 	comment "Bishoujo Janshi Suchie-Pai (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 80E66C55 )
 )
 
@@ -2555,7 +2555,7 @@ game (
 
 game (
 	comment "Chinhai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D7452215 )
 )
 
@@ -3179,31 +3179,31 @@ game (
 
 game (
 	comment "Daibakushou Jinsei Gekijou (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc A5D41D2F )
 )
 
 game (
 	comment "Daibakushou Jinsei Gekijou - Dokidoki Seishun Hen (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 2763FD4F )
 )
 
 game (
 	comment "Daibakushou Jinsei Gekijou - Ooedo Nikki (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 34F2685E )
 )
 
 game (
 	comment "Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc EBA309C0 )
 )
 
 game (
 	comment "Daibakushou Jinsei Gekijou - Zukkoke Salaryman Hen (Japan) (Rev 1) (NP)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 0FB50CA2 )
 )
 
@@ -3665,7 +3665,7 @@ game (
 
 game (
 	comment "Dokapon Gaiden - Honoo no Audition (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc A1684B6C )
 )
 
@@ -5459,7 +5459,7 @@ game (
 
 game (
 	comment "Fortune Quest - Dice o Korogase (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 448E3712 )
 )
 
@@ -5675,31 +5675,31 @@ game (
 
 game (
 	comment "Gambler Jiko Chuushinha - Mahjong Ooisen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 8EBD1223 )
 )
 
 game (
 	comment "Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4D098C5C )
 )
 
 game (
 	comment "Gambling Hourouki (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 43B2590D )
 )
 
 game (
 	comment "Game no Tatsujin (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc A3203356 )
 )
 
 game (
 	comment "Game no Tetsujin - The Shanghai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc E50BBFB7 )
 )
 
@@ -6041,7 +6041,7 @@ game (
 
 game (
 	comment "Gionbana (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 019309A2 )
 )
 
@@ -6341,7 +6341,7 @@ game (
 
 game (
 	comment "Habu Meijin no Omoshiro Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4C1B8801 )
 )
 
@@ -6371,7 +6371,7 @@ game (
 
 game (
 	comment "Haisei Mahjong - Ryouga (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc CF7B57E0 )
 )
 
@@ -6449,7 +6449,7 @@ game (
 
 game (
 	comment "Hanafuda Ou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4F453A21 )
 )
 
@@ -6563,7 +6563,7 @@ game (
 
 game (
 	comment "Hayazashi Nidan Morita Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 81E822AD )
 )
 
@@ -6575,7 +6575,7 @@ game (
 
 game (
 	comment "Hayazashi Nidan Morita Shougi 2 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc DD852671 )
 )
 
@@ -6617,7 +6617,7 @@ game (
 
 game (
 	comment "Heisei Gunjin Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 10BCA5E1 )
 )
 
@@ -6863,31 +6863,31 @@ game (
 
 game (
 	comment "Honkaku Mahjong - Tetsuman II (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A43C5A39 )
 )
 
 game (
 	comment "Honkaku Mahjong - Tetsuman (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 53F03DB9 )
 )
 
 game (
 	comment "Honkaku Shougi - Fuuunji Ryuuou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B8BE82C2 )
 )
 
 game (
 	comment "Honkakuha Igo - Gosei (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 8F322C56 )
 )
 
 game (
 	comment "Honke Hanafuda (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 53206326 )
 )
 
@@ -7133,7 +7133,7 @@ game (
 
 game (
 	comment "Igo Club (Japan) (Rev 2)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D6B2606D )
 )
 
@@ -7145,7 +7145,7 @@ game (
 
 game (
 	comment "Igo Club (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 1E23F3D6 )
 )
 
@@ -7409,13 +7409,13 @@ game (
 
 game (
 	comment "Itadaki Street 2 - Neon Sign wa Barairo ni (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 95310032 )
 )
 
 game (
 	comment "Itadaki Street 2 - Neon Sign wa Barairo ni (Japan) (Beta) (1993-12-20)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 3525EBB6 )
 )
 
@@ -7439,13 +7439,13 @@ game (
 
 game (
 	comment "Itou Hatasu Rokudan no Shougi Doujou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc BFFCE7C6 )
 )
 
 game (
 	comment "Itou Hatasu Rokudan no Shougi Doujou (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7EE270DA )
 )
 
@@ -7619,7 +7619,7 @@ game (
 
 game (
 	comment "Janyuuki - Gokuu Randa (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 10978B2D )
 )
 
@@ -7907,7 +7907,7 @@ game (
 
 game (
 	comment "Jissen! Mahjong Shinan (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 457F3020 )
 )
 
@@ -8033,7 +8033,7 @@ game (
 
 game (
 	comment "Joushou Mahjong Tenpai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A24944E4 )
 )
 
@@ -8303,7 +8303,7 @@ game (
 
 game (
 	comment "Kabuki Chou Reach Mahjong Tonpuusen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D4EF91CE )
 )
 
@@ -8339,7 +8339,7 @@ game (
 
 game (
 	comment "Kakinoki Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc BC1A265F )
 )
 
@@ -8387,7 +8387,7 @@ game (
 
 game (
 	comment "Katou Hifumi Kudan - Shougi Club (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 49B60293 )
 )
 
@@ -8489,7 +8489,7 @@ game (
 
 game (
 	comment "Kessen! Dokapon Oukoku IV - Densetsu no Yuusha-tachi (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 9BA1F895 )
 )
 
@@ -8615,13 +8615,13 @@ game (
 
 game (
 	comment "Kikuni Masahiko no Jantoushi Doraou (Japan) (Beta) (1992-11-15)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 25AD7971 )
 )
 
 game (
 	comment "Kikuni Masahiko no Jantoushi Doraou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc EF034532 )
 )
 
@@ -8639,7 +8639,7 @@ game (
 
 game (
 	comment "Kikuni Masahiko no Jantoushi Doraou 2 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C985925C )
 )
 
@@ -8663,7 +8663,7 @@ game (
 
 game (
 	comment "Kindai Mahjong Special (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7EE385A7 )
 )
 
@@ -8867,7 +8867,7 @@ game (
 
 game (
 	comment "Kiteretsu Daihyakka - Choujikuu Sugoroku (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 55219CA3 )
 )
 
@@ -8945,7 +8945,7 @@ game (
 
 game (
 	comment "Kousoku Shikou Shougi Ou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 0E536DD2 )
 )
 
@@ -9911,49 +9911,49 @@ game (
 
 game (
 	comment "Mahjong Club (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 1D8748FA )
 )
 
 game (
 	comment "Mahjong Gokuu Tenjiku (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc EE50159A )
 )
 
 game (
 	comment "Mahjong Hanjouki (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 8A9D74F6 )
 )
 
 game (
 	comment "Mahjong Taikai II (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 19F7288C )
 )
 
 game (
 	comment "Mahjong Sengoku Monogatari (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2E89DB51 )
 )
 
 game (
 	comment "Mahjong Hishouden - Shin Naki no Ryuu (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 66FBE563 )
 )
 
 game (
 	comment "Mahjong Taikai II (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5695CC12 )
 )
 
 game (
 	comment "Mahjong Touhaiden, The (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc BF355DED )
 )
 
@@ -10841,7 +10841,7 @@ game (
 
 game (
 	comment "Mizuki Shigeru no Youkai Hyakkiyakou (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 70740CF4 )
 )
 
@@ -10865,13 +10865,13 @@ game (
 
 game (
 	comment "Momotarou Dentetsu Happy (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 0B8D1474 )
 )
 
 game (
 	comment "Monopoly (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 42FE51E1 )
 )
 
@@ -10889,13 +10889,13 @@ game (
 
 game (
 	comment "Monopoly Game 2, The (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc ED62B1DD )
 )
 
 game (
 	comment "Monopoly Game 2, The (Japan) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 848C1979 )
 )
 
@@ -10913,7 +10913,7 @@ game (
 
 game (
 	comment "Monster Maker Kids - Ousama ni Naritai (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc D1B621AC )
 )
 
@@ -11039,7 +11039,7 @@ game (
 
 game (
 	comment "Motteke Oh! Dorobou (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 843506BB )
 )
 
@@ -11267,7 +11267,7 @@ game (
 
 game (
 	comment "Naki no Ryuu - Mahjong Hishouden (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc CF2C0800 )
 )
 
@@ -12059,7 +12059,7 @@ game (
 
 game (
 	comment "Nomark Baku Haitou - Shijou Saikyou no Janshi-tachi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 41DFFE15 )
 )
 
@@ -12287,7 +12287,7 @@ game (
 
 game (
 	comment "Othello World (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 1345ED19 )
 )
 
@@ -13607,7 +13607,7 @@ game (
 
 game (
 	comment "Pro Kishi Jinsei Simulation - Shougi no Hanamichi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D10439D4 )
 )
 
@@ -13619,43 +13619,43 @@ game (
 
 game (
 	comment "Pro Mahjong Kiwame II (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C06DC507 )
 )
 
 game (
 	comment "Pro Mahjong Kiwame (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 1210816B )
 )
 
 game (
 	comment "Pro Mahjong Kiwame (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 59B6B116 )
 )
 
 game (
 	comment "Pro Mahjong Kiwame II (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2142A484 )
 )
 
 game (
 	comment "Pro Mahjong Kiwame III (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc CF05DFCE )
 )
 
 game (
 	comment "Pro Mahjong Tsuwamono (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 263DAE53 )
 )
 
 game (
 	comment "Pro Mahjong Tsuwamono (Japan) (Renkaban)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc CA1B24B4 )
 )
 
@@ -14099,7 +14099,7 @@ game (
 
 game (
 	comment "Reverse Kids (Japan) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 3A426A4A )
 )
 
@@ -14153,7 +14153,7 @@ game (
 
 game (
 	comment "Rin Kaihou Kudan no Igo Taidou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B56EC084 )
 )
 
@@ -14699,13 +14699,13 @@ game (
 
 game (
 	comment "Saibara Rieko no Mahjong Hourouki (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 42198D27 )
 )
 
 game (
 	comment "Saikousoku Shikou Shougi Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A16CC0A7 )
 )
 
@@ -14717,7 +14717,7 @@ game (
 
 game (
 	comment "Sakurai Shouichi no Jankiryuu Mahjong Hisshouhou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A8119995 )
 )
 
@@ -14831,7 +14831,7 @@ game (
 
 game (
 	comment "Sanrio Shanghai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4CBB22DF )
 )
 
@@ -15227,31 +15227,31 @@ game (
 
 game (
 	comment "Shanghai - Banri no Choujou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5E21F557 )
 )
 
 game (
 	comment "Shanghai - Banri no Choujou (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5956E946 )
 )
 
 game (
 	comment "Shanghai II - Dragon's Eye (Europe)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 45C2F934 )
 )
 
 game (
 	comment "Shanghai II - Dragon's Eye (USA)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2FEC70B6 )
 )
 
 game (
 	comment "Shanghai III (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc DEE271AF )
 )
 
@@ -15335,7 +15335,7 @@ game (
 
 game (
 	comment "Shin Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc EFA078F5 )
 )
 
@@ -15425,7 +15425,7 @@ game (
 
 game (
 	comment "Shin Shougi Club (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc E0273E0E )
 )
 
@@ -15497,7 +15497,7 @@ game (
 
 game (
 	comment "Shinzui Taikyoku Igo - Go Sennin (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 13FCC999 )
 )
 
@@ -15521,13 +15521,13 @@ game (
 
 game (
 	comment "Shodan Morita Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 899841E5 )
 )
 
 game (
 	comment "Shodani Nintei - Shodan Pro Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7557C1B6 )
 )
 
@@ -15539,31 +15539,31 @@ game (
 
 game (
 	comment "Shougi Club (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F9C79B45 )
 )
 
 game (
 	comment "Shougi Fuurinkazan (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3D456EED )
 )
 
 game (
 	comment "Shougi Saikyou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 12C42BC0 )
 )
 
 game (
 	comment "Shougi Zanmai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3BA30CC5 )
 )
 
 game (
 	comment "Shougi Saikyou II - Jissen Taikyoku Hen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc E57505D8 )
 )
 
@@ -15587,7 +15587,7 @@ game (
 
 game (
 	comment "Shounin yo, Taishi o Idake!! (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 51227E94 )
 )
 
@@ -16043,7 +16043,7 @@ game (
 
 game (
 	comment "Sotsugyou Bangai Hen - Nee Mahjong Shiyo! (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D44CEB2F )
 )
 
@@ -16991,13 +16991,13 @@ game (
 
 game (
 	comment "Sugoro Quest++ - Dicenics (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 366C84F3 )
 )
 
 game (
 	comment "Sugoroku Ginga Senki (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc EA0C55BC )
 )
 
@@ -17207,13 +17207,13 @@ game (
 
 game (
 	comment "Super Battleship (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 6FCEA1A1 )
 )
 
 game (
 	comment "Super Battleship (Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 9C365CAE )
 )
 
@@ -17699,13 +17699,13 @@ game (
 
 game (
 	comment "Super Double Yakuman II (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc E70AA119 )
 )
 
 game (
 	comment "Super Double Yakuman (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 16CCA911 )
 )
 
@@ -18035,7 +18035,7 @@ game (
 
 game (
 	comment "Super Gomoku Narabe - Renju (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5621000D )
 )
 
@@ -18047,7 +18047,7 @@ game (
 
 game (
 	comment "Super Gomoku Shougi - Jouseki Kenkyuu Hen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 54833287 )
 )
 
@@ -18077,13 +18077,13 @@ game (
 
 game (
 	comment "Super Hanafuda (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F2DD4EBF )
 )
 
 game (
 	comment "Super Hanafuda 2 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6F12C3D5 )
 )
 
@@ -18143,7 +18143,7 @@ game (
 
 game (
 	comment "Super Igo - Go Ou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4AC5623D )
 )
 
@@ -18197,49 +18197,49 @@ game (
 
 game (
 	comment "Super Jangou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc FF6C80C6 )
 )
 
 game (
 	comment "Super Jinsei Game (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc F3B6A9AD )
 )
 
 game (
 	comment "Super Jinsei Game (Japan) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 5B1837BE )
 )
 
 game (
 	comment "Super Jinsei Game 2 (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 7D924C99 )
 )
 
 game (
 	comment "Super Jinsei Game 2 (Japan) (Rev 2)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 7654E35F )
 )
 
 game (
 	comment "Super Jinsei Game 2 (Japan) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 4B4D87F5 )
 )
 
 game (
 	comment "Super Jinsei Game 3 (Japan) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 61B947E2 )
 )
 
 game (
 	comment "Super Jinsei Game 3 (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 688382B6 )
 )
 
@@ -18341,61 +18341,61 @@ game (
 
 game (
 	comment "Super Mahjong 2 - Honkaku 4-nin Uchi! (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 1A2A8732 )
 )
 
 game (
 	comment "Super Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3DF04E29 )
 )
 
 game (
 	comment "Super Mahjong 2 - Honkaku 4-nin Uchi! (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6B23E2E4 )
 )
 
 game (
 	comment "Super Mahjong 3 - Karakuchi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc FE691648 )
 )
 
 game (
 	comment "Super Mahjong Taikai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2A2CCCF4 )
 )
 
 game (
 	comment "Super Mahjong Taikai (Japan) (Rev 5)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 732740EC )
 )
 
 game (
 	comment "Super Mahjong Taikai (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 224F2944 )
 )
 
 game (
 	comment "Super Mahjong Taikai (Japan) (Rev 3)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 91A6D452 )
 )
 
 game (
 	comment "Super Mahjong Taikai (Japan) (Rev 4)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F748D9A7 )
 )
 
 game (
 	comment "Super Mahjong Taikai (Japan) (Rev 2)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9627CCAD )
 )
 
@@ -18671,37 +18671,37 @@ game (
 
 game (
 	comment "Super Momotarou Dentetsu DX (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 1C0C3D81 )
 )
 
 game (
 	comment "Super Momotarou Dentetsu DX (Japan) (JR Nishi-Nihon Presents)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 46239D31 )
 )
 
 game (
 	comment "Super Momotarou Dentetsu II (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 277AD4A1 )
 )
 
 game (
 	comment "Super Momotarou Dentetsu III (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc F787CB9A )
 )
 
 game (
 	comment "Super Momotarou Dentetsu III (Japan) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 8587EB6E )
 )
 
 game (
 	comment "Super Momotarou Dentetsu III (Japan) (Rev 2)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 9B9F3F71 )
 )
 
@@ -18737,25 +18737,25 @@ game (
 
 game (
 	comment "Super Nichibutsu Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D36AA90C )
 )
 
 game (
 	comment "Super Nichibutsu Mahjong 2 - Zenkoku Seiha Hen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 36F6378F )
 )
 
 game (
 	comment "Super Nichibutsu Mahjong 3 - Yoshimoto Gekijou Hen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 0C8779B3 )
 )
 
 game (
 	comment "Super Nichibutsu Mahjong 4 - Kisokenkyuu Hen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 385E4860 )
 )
 
@@ -19109,13 +19109,13 @@ game (
 
 game (
 	comment "Super Real Mahjong PIV (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 85555436 )
 )
 
 game (
 	comment "Super Real Mahjong PV Paradise - All-Star 4-nin Uchi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 8ACB1C4A )
 )
 
@@ -19181,25 +19181,25 @@ game (
 
 game (
 	comment "Super Shougi (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3BA3C38B )
 )
 
 game (
 	comment "Super Shanghai - Dragon's Eye (Japan) (HOT B)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6F95D27E )
 )
 
 game (
 	comment "Super Shanghai - Dragon's Eye (Japan) (Activision)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C9B16CB2 )
 )
 
 game (
 	comment "Super Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3769DAA8 )
 )
 
@@ -19211,13 +19211,13 @@ game (
 
 game (
 	comment "Super Shougi 2 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc EF8A2138 )
 )
 
 game (
 	comment "Super Shougi 3 - Kitaihei (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 323C6265 )
 )
 
@@ -19619,7 +19619,7 @@ game (
 
 game (
 	comment "Super Tsumeshougi 1000 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F9AE2B76 )
 )
 
@@ -19949,7 +19949,7 @@ game (
 
 game (
 	comment "Table Game Daishuugou!! (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 661E791E )
 )
 
@@ -19979,7 +19979,7 @@ game (
 
 game (
 	comment "Tadaima Yuusha Boshuuchuu Okawari (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 1BDEB829 )
 )
 
@@ -20009,19 +20009,19 @@ game (
 
 game (
 	comment "Taikyoku Igo - Goliath (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 01AFEC9C )
 )
 
 game (
 	comment "Taiwan 16 Mahjong II - Horoscope Girls Edition (Hong Kong) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 561BBD96 )
 )
 
 game (
 	comment "Taikyoku Igo - Idaten (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B5DB72B6 )
 )
 
@@ -20057,7 +20057,7 @@ game (
 
 game (
 	comment "Takemiya Masaki Kudan no Igo Taishou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 639022AB )
 )
 
@@ -20813,7 +20813,7 @@ game (
 
 game (
 	comment "Tokoro's Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 49DBFF84 )
 )
 
@@ -21011,7 +21011,7 @@ game (
 
 game (
 	comment "Tower Dream (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc AA2D5C55 )
 )
 
@@ -22697,7 +22697,7 @@ game (
 
 game (
 	comment "Yokoyama Mitsuteru Sangokushi Bangi - Sugoroku Eiyuu-ki (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 08F8CC16 )
 )
 
@@ -22853,19 +22853,19 @@ game (
 
 game (
 	comment "Yuujin Janjuu Gakuen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D6FECE51 )
 )
 
 game (
 	comment "Yuujin Janjuu Gakuen 2 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 70FBFF3B )
 )
 
 game (
 	comment "Yuujin no Furi Furi Girls (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 02855382 )
 )
 
@@ -23099,13 +23099,13 @@ game (
 
 game (
 	comment "Zootto Mahjong! (Japan) (NP)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C167987D )
 )
 
 game (
 	comment "Zootto Mahjong! (Japan) (Rev 1) (NP)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4833C585 )
 )
 

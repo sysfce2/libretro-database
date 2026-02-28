@@ -65,7 +65,7 @@ game (
 
 game (
 	comment "Backgammon (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 850BC084 )
 )
 
@@ -155,25 +155,25 @@ game (
 
 game (
 	comment "Bishoujo Hanafuda Club Vol.1 - Oichokabu Hen (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 798BEA42 )
 )
 
 game (
 	comment "Bishoujo Kachinuki Renju - Gomoku Narabe (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc FF06EB11 )
 )
 
 game (
 	comment "Bishoujo Hanafuda Club Vol.2 - Koikoi Bakappana Hen (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 478F36D6 )
 )
 
 game (
 	comment "Bishoujo Mahjong Club (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc DEAEF7E0 )
 )
 
@@ -665,7 +665,7 @@ game (
 
 game (
 	comment "Famimaga Disk Vol. 1 - Hong Kong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 31C155D8 )
 )
 
@@ -713,49 +713,49 @@ game (
 
 game (
 	comment "Fruits Mahjong 1 - Disk 1 - Mahjong Game Hontai (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 722ECA6D )
 )
 
 game (
 	comment "Fruits Mahjong 1 - Disk 2 - Dai H Taikai (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F4300462 )
 )
 
 game (
 	comment "Fruits Mahjong 2 - Disk 1 - Tokimeki Gals (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D065DFCF )
 )
 
 game (
 	comment "Fruits Mahjong 3 - Disk 1 - Yonin no Tenshi Tachi (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 1F0E3CBC )
 )
 
 game (
 	comment "Fruits Mahjong 2 - Disk 2 - Yonin to Dai H Taikai (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc EFF1B027 )
 )
 
 game (
 	comment "Fruits Mahjong 3 - Disk 2 - Tottemo H na Gogo (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7D853EEC )
 )
 
 game (
 	comment "Fruits Mahjong 4 - Disk 1 - Bishoujo Connection (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F5DE88B1 )
 )
 
 game (
 	comment "Fruits Mahjong 4 - Disk 2 - Daitan H na Hirusagari (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4A42467D )
 )
 
@@ -887,7 +887,7 @@ game (
 
 game (
 	comment "Gomoku Narabe (Japan) (Proto)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6521FAC2 )
 )
 
@@ -1019,7 +1019,7 @@ game (
 
 game (
 	comment "Igo - Kyuu Roban Taikyoku (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2E1E75AE )
 )
 
@@ -1265,13 +1265,13 @@ game (
 
 game (
 	comment "Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9A8A4DBF )
 )
 
 game (
 	comment "Mahjong Kazoku (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3D43B203 )
 )
 
@@ -1451,7 +1451,7 @@ game (
 
 game (
 	comment "Othello (Japan) (DV 2)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7CEFC63B )
 )
 
@@ -1463,7 +1463,7 @@ game (
 
 game (
 	comment "Othello (Japan) (DV 3, 5) (Disk Writer)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7CEFC63B )
 )
 
@@ -1505,7 +1505,7 @@ game (
 
 game (
 	comment "Professional Mahjong Gokuu (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 38A67D37 )
 )
 
@@ -1673,19 +1673,19 @@ game (
 
 game (
 	comment "Shanghai (Japan) (Proto) (1986-10-16)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B1ED9311 )
 )
 
 game (
 	comment "Shanghai II (Japan) (Proto) (Dragon Layout)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4EAAEA69 )
 )
 
 game (
 	comment "Shanghai II (Japan) (Proto) (Scorpion Layout)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4E10423E )
 )
 
@@ -1775,19 +1775,19 @@ game (
 
 game (
 	comment "Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6CAD684C )
 )
 
 game (
 	comment "Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi - Shinban Tsumeshougi - Tsugi no Itte (Japan) (Disk Writer)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 94ED2D89 )
 )
 
 game (
 	comment "Tanigawa Kouji no Shougi Shinan II - Meijin e no Michi (Japan) (Beta) (1987-11-13)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc FC14D862 )
 )
 

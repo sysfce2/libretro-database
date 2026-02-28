@@ -179,13 +179,13 @@ game (
 
 game (
 	comment "From TV Animation One Piece - Treasure Wars (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 205503C3 )
 )
 
 game (
 	comment "From TV Animation One Piece - Treasure Wars 2 - Buggy Land e Youkoso (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 0D1048F0 )
 )
 
@@ -197,7 +197,7 @@ game (
 
 game (
 	comment "From TV Animation One Piece - Treasure Wars (Japan) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 3DF3E34C )
 )
 
@@ -209,7 +209,7 @@ game (
 
 game (
 	comment "Gensou Maden Saiyuuki Retribution - Hi no Ataru Basho de (Japan) (Rev 2)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 446E2581 )
 )
 
@@ -551,7 +551,7 @@ game (
 
 game (
 	comment "Tonpuusou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 47659B2C )
 )
 

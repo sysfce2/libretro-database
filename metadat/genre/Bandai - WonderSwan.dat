@@ -239,7 +239,7 @@ game (
 
 game (
 	comment "Hanafuda Shiyouyo (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4B22270D )
 )
 
@@ -413,7 +413,7 @@ game (
 
 game (
 	comment "Morita Shougi for WonderSwan (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D675C265 )
 )
 
@@ -467,7 +467,7 @@ game (
 
 game (
 	comment "Pro Mahjong Kiwame for WonderSwan (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 90F7E6D6 )
 )
 
@@ -569,7 +569,7 @@ game (
 
 game (
 	comment "Shanghai Pocket (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 1C489351 )
 )
 
@@ -581,7 +581,7 @@ game (
 
 game (
 	comment "Shougi Touryuumon (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3AD194EB )
 )
 
@@ -653,7 +653,7 @@ game (
 
 game (
 	comment "Taikyoku Igo - Heisei Kiin (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5023DB90 )
 )
 

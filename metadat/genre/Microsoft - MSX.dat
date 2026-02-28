@@ -749,7 +749,7 @@ game (
 
 game (
 	comment "Chess Game, The (Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 28277362 )
 )
 
@@ -1583,7 +1583,7 @@ game (
 
 game (
 	comment "Hafanuda Koi Koi - Gostop Godori (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 17B160CB )
 )
 
@@ -1595,7 +1595,7 @@ game (
 
 game (
 	comment "Hanafuta (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5D6655C5 )
 )
 
@@ -1661,7 +1661,7 @@ game (
 
 game (
 	comment "Hisya (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 136BBA04 )
 )
 
@@ -1895,7 +1895,7 @@ game (
 
 game (
 	comment "Jissen - 4-nin Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc E8DF4AA8 )
 )
 
@@ -1931,13 +1931,13 @@ game (
 
 game (
 	comment "Jyankyo (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7382F3AC )
 )
 
 game (
 	comment "Jyanyuu (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C8FF3829 )
 )
 
@@ -2723,7 +2723,7 @@ game (
 
 game (
 	comment "Othello (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc FD3921CD )
 )
 
@@ -2975,7 +2975,7 @@ game (
 
 game (
 	comment "Professional Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F1EC5E18 )
 )
 
@@ -3245,31 +3245,31 @@ game (
 
 game (
 	comment "Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc ECE16709 )
 )
 
 game (
 	comment "Shougi 2 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A44495D5 )
 )
 
 game (
 	comment "Shougi Game (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 18AD3380 )
 )
 
 game (
 	comment "Shougi Meijin (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B90DEE1D )
 )
 
 game (
 	comment "Shougi Sinan 1 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc EAD8E29C )
 )
 
@@ -3647,7 +3647,7 @@ game (
 
 game (
 	comment "Tetsuman (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 929D6786 )
 )
 
@@ -3665,7 +3665,7 @@ game (
 
 game (
 	comment "Tetsuman (Japan) (Alt)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B6C02AE7 )
 )
 
@@ -3755,7 +3755,7 @@ game (
 
 game (
 	comment "Tumego 120 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B9B69A43 )
 )
 

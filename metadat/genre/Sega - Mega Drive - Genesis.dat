@@ -17,13 +17,13 @@ game (
 
 game (
 	comment "16 Zhang Mahjong (Taiwan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 36407C82 )
 )
 
 game (
 	comment "16 Zhang Mahjong II (Taiwan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B4F4249F )
 )
 
@@ -2021,13 +2021,13 @@ game (
 
 game (
 	comment "Chao Ji Da Fu Weng (Taiwan) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 2E2EA687 )
 )
 
 game (
 	comment "Chao Ji Mahjong Club (Taiwan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2B4B40E3 )
 )
 
@@ -2069,7 +2069,7 @@ game (
 
 game (
 	comment "Chess (Russia) (En) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 47380EDD )
 )
 
@@ -3347,7 +3347,7 @@ game (
 
 game (
 	comment "Dial Q o Mawase! (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C632E5AF )
 )
 
@@ -3569,7 +3569,7 @@ game (
 
 game (
 	comment "Dragon's Eye Plus - Shanghai III (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 81F0C3CF )
 )
 
@@ -4781,7 +4781,7 @@ game (
 
 game (
 	comment "Gambler Jiko Chuushinha - Katayama Masayuki no Mahjong Doujou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 05650B7A )
 )
 
@@ -4949,7 +4949,7 @@ game (
 
 game (
 	comment "Go Net (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc DB30F773 )
 )
 
@@ -5705,7 +5705,7 @@ game (
 
 game (
 	comment "Janou Touryuumon (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B5EF97C6 )
 )
 
@@ -5783,7 +5783,7 @@ game (
 
 game (
 	comment "Jiu Ji Ma Jiang II - Ye Yan Bian (Taiwan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc E9829B22 )
 )
 
@@ -6713,7 +6713,7 @@ game (
 
 game (
 	comment "Ma Jiang Qing Ren - Ji Ma Jiang Zhi (Taiwan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc DDD02BA4 )
 )
 
@@ -6725,7 +6725,7 @@ game (
 
 game (
 	comment "Ma Qiao E Mo Ta - Devilish Mahjong Tower (Taiwan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 12E35994 )
 )
 
@@ -10169,7 +10169,7 @@ game (
 
 game (
 	comment "Risk (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 80416D0D )
 )
 
@@ -10577,7 +10577,7 @@ game (
 
 game (
 	comment "Sansan (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5B85DEED )
 )
 
@@ -10763,13 +10763,13 @@ game (
 
 game (
 	comment "Shanghai II - Dragon's Eye (USA)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc EBE9E840 )
 )
 
 game (
 	comment "Shanghai II - Dragon's Eye (USA) (Beta)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 154ACA2D )
 )
 
@@ -10799,7 +10799,7 @@ game (
 
 game (
 	comment "Shikinjou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5EA0C97D )
 )
 
@@ -13121,7 +13121,7 @@ game (
 
 game (
 	comment "Tel-Tel Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 44817E92 )
 )
 
@@ -15383,7 +15383,7 @@ game (
 
 game (
 	comment "Zhong Guo Xiang Qi (Taiwan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 475215A0 )
 )
 

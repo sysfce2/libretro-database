@@ -47,7 +47,7 @@ game (
 
 game (
 	comment "Shougi no Tatsujin (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F34D0C9B )
 )
 

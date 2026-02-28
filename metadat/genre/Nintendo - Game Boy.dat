@@ -23,67 +23,67 @@ game (
 
 game (
 	comment "4 in 1 (Europe) (4B-005, Sachen-Commin) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc F4310EB3 )
 )
 
 game (
 	comment "4 in 1 (Europe) (4B-002, Sachen) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 5E438DB8 )
 )
 
 game (
 	comment "4 in 1 (Europe) (4B-007, Sachen) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 62D9350E )
 )
 
 game (
 	comment "4 in 1 (Europe) (4B-001, Sachen-Commin) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 82F06E93 )
 )
 
 game (
 	comment "4 in 1 (Europe) (4B-004, Sachen-Commin) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc C69A19F6 )
 )
 
 game (
 	comment "4 in 1 (Europe) (4B-008, Sachen) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 740E9BC8 )
 )
 
 game (
 	comment "4 in 1 (Europe) (4B-006, Sachen) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 95398DA5 )
 )
 
 game (
 	comment "4 in 1 (Taiwan) (En,Zh) (4B-003, Sachen-Commin) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc C294AA21 )
 )
 
 game (
 	comment "4 in 1 (Europe) (4B-009, Sachen) (Unl)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 114E1F1E )
 )
 
 game (
 	comment "4-in-1 Fun Pak (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 86F45343 )
 )
 
 game (
 	comment "4-in-1 Fun Pak (USA, Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 0E0216E6 )
 )
 
@@ -95,7 +95,7 @@ game (
 
 game (
 	comment "4-in-1 Funpak - Volume II (USA, Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 018B4A02 )
 )
 
@@ -995,7 +995,7 @@ game (
 
 game (
 	comment "Boggle Plus (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 70C8C799 )
 )
 
@@ -1517,25 +1517,25 @@ game (
 
 game (
 	comment "Chessmaster, The (Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 02852E24 )
 )
 
 game (
 	comment "Chessmaster, The (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 82150E4A )
 )
 
 game (
 	comment "Chessmaster, The (USA, Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 0C1D2B68 )
 )
 
 game (
 	comment "Chessmaster, The (USA) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 59ED370C )
 )
 
@@ -1571,7 +1571,7 @@ game (
 
 game (
 	comment "Chibi Maruko-chan 4 - Kore ga Nihon Da yo! Ouji-sama (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E55138BE )
 )
 
@@ -2165,7 +2165,7 @@ game (
 
 game (
 	comment "Double Yakuman (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 252C32B5 )
 )
 
@@ -2177,13 +2177,13 @@ game (
 
 game (
 	comment "Double Yakuman II (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A3D77A55 )
 )
 
 game (
 	comment "Double Yakuman Jr. (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 34AC7268 )
 )
 
@@ -3119,7 +3119,7 @@ game (
 
 game (
 	comment "Go! Go! Hitchhike (Japan) (SGB Enhanced)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 845735DE )
 )
 
@@ -3395,7 +3395,7 @@ game (
 
 game (
 	comment "Hon Shougi (Japan) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6C407EED )
 )
 
@@ -3407,7 +3407,7 @@ game (
 
 game (
 	comment "Hong Kong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5AD83D68 )
 )
 
@@ -3827,7 +3827,7 @@ game (
 
 game (
 	comment "Jinsei Game Densetsu (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 590F4AFC )
 )
 
@@ -5231,19 +5231,19 @@ game (
 
 game (
 	comment "Monopoly (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc D8AC08B5 )
 )
 
 game (
 	comment "Monopoly (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc FD90F0D6 )
 )
 
 game (
 	comment "Monopoly (Europe) (En,Fr,De)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 987B621E )
 )
 
@@ -5519,13 +5519,13 @@ game (
 
 game (
 	comment "Nada Asatarou & Kojima Takeo no Jissen Mahjong Kyoushitsu (Japan) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9D335162 )
 )
 
 game (
 	comment "Nada Asatarou no Powerful Mahjong - Tsugi no Itte 100 Dai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B4DD8E6A )
 )
 
@@ -5765,7 +5765,7 @@ game (
 
 game (
 	comment "New Chessmaster, The (Japan) (En,Ja)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 5E1C3E8D )
 )
 
@@ -5777,7 +5777,7 @@ game (
 
 game (
 	comment "New Chessmaster, The (USA, Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc C7FFC203 )
 )
 
@@ -5819,7 +5819,7 @@ game (
 
 game (
 	comment "Nichibutsu Mahjong - Yoshimoto Gekijou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D983FF48 )
 )
 
@@ -6017,19 +6017,19 @@ game (
 
 game (
 	comment "Othello (Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E6607E29 )
 )
 
 game (
 	comment "Othello (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc C17A002E )
 )
 
 game (
 	comment "Othello World (Japan) (SGB Enhanced)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 64D13A6D )
 )
 
@@ -6551,7 +6551,7 @@ game (
 
 game (
 	comment "Pocket Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 90F026D4 )
 )
 
@@ -6617,7 +6617,7 @@ game (
 
 game (
 	comment "Pocket Shougi (Japan) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2FA1BDE6 )
 )
 
@@ -6887,7 +6887,7 @@ game (
 
 game (
 	comment "Pro Mahjong Kiwame GB (Japan) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6F5B6748 )
 )
 
@@ -7235,7 +7235,7 @@ game (
 
 game (
 	comment "Renju Club - Gomoku Narabe (Japan) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 52F5E960 )
 )
 
@@ -7655,25 +7655,25 @@ game (
 
 game (
 	comment "Shanghai (Japan) (Activision)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6AA684EB )
 )
 
 game (
 	comment "Shanghai (Japan) (HAL Laboratory)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7C29672B )
 )
 
 game (
 	comment "Shanghai (USA)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 580FCB18 )
 )
 
 game (
 	comment "Shanghai Pocket (Japan) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6B8EFF2C )
 )
 
@@ -7685,7 +7685,7 @@ game (
 
 game (
 	comment "Shikinjou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F8EC3A41 )
 )
 
@@ -7745,19 +7745,19 @@ game (
 
 game (
 	comment "Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4FB44CB4 )
 )
 
 game (
 	comment "Shougi Saikyou (Japan) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2F0F7C6E )
 )
 
 game (
 	comment "Shougi Saikyou (Japan) (Rev 1) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A074BF7E )
 )
 
@@ -8549,7 +8549,7 @@ game (
 
 game (
 	comment "Super Momotarou Dentetsu (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 4CA6D91A )
 )
 
@@ -8693,7 +8693,7 @@ game (
 
 game (
 	comment "Taikyoku Renju (Japan) (En,Ja)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 62A31DE6 )
 )
 
@@ -9113,7 +9113,7 @@ game (
 
 game (
 	comment "Tokoro's Mahjong Jr. (Japan) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 56AFCA4C )
 )
 
@@ -9203,7 +9203,7 @@ game (
 
 game (
 	comment "Tottemo! Lucky Man - Lucky Cookie Minna Daisuki!! (Japan) (SGB Enhanced)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 8F9E28AD )
 )
 
@@ -9299,31 +9299,31 @@ game (
 
 game (
 	comment "Tsumego Series 1 - Fujisawa Hideyuki Meiyo Kisei (Japan) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc CEEE6A61 )
 )
 
 game (
 	comment "Tsumeshougi - Hyakuban Shoubu (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 43E2A5C0 )
 )
 
 game (
 	comment "Tsumeshougi - Kanki Godan (Japan) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D5434C94 )
 )
 
 game (
 	comment "Tsumeshougi - Mondai Teikyou Shougi Sekai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6403AF06 )
 )
 
 game (
 	comment "Tsumeshougi - Kanki Godan (Japan) (Beta) (SGB Enhanced)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9995EE1A )
 )
 
@@ -9467,7 +9467,7 @@ game (
 
 game (
 	comment "Undercover Cops Gaiden - Hakaishin Garumaa (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc B7AF37F5 )
 )
 
@@ -9905,13 +9905,13 @@ game (
 
 game (
 	comment "Yakuman (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3134EA60 )
 )
 
 game (
 	comment "Yakuman (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 90CB60C1 )
 )
 

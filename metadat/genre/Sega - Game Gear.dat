@@ -17,7 +17,7 @@ game (
 
 game (
 	comment "5 in One FunPak (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc F85A8CE8 )
 )
 
@@ -317,7 +317,7 @@ game (
 
 game (
 	comment "Battleship - The Classic Naval Combat Game (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E9987511 )
 )
 
@@ -665,7 +665,7 @@ game (
 
 game (
 	comment "Chessmaster, The (USA, Europe, Brazil) (En)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc DA811BA6 )
 )
 
@@ -1397,7 +1397,7 @@ game (
 
 game (
 	comment "Gambler Jiko Chuushinha (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 423803A7 )
 )
 
@@ -1595,7 +1595,7 @@ game (
 
 game (
 	comment "Hyokkori Hyoutan-jima - Hyoutan-jima no Daikoukai (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 42389270 )
 )
 
@@ -2903,7 +2903,7 @@ game (
 
 game (
 	comment "Pocket Jansou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc CC90C723 )
 )
 
@@ -3239,13 +3239,13 @@ game (
 
 game (
 	comment "Shanghai II (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2AE8C75F )
 )
 
 game (
 	comment "Shanghai II (Japan) (Rev A)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 81314249 )
 )
 
@@ -3263,7 +3263,7 @@ game (
 
 game (
 	comment "Shikinjou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9C5C7F53 )
 )
 
@@ -4103,7 +4103,7 @@ game (
 
 game (
 	comment "Super Momotarou Dentetsu III (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B731BB80 )
 )
 
@@ -4211,13 +4211,13 @@ game (
 
 game (
 	comment "Taisen Mahjong HaoPai 2 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 20527530 )
 )
 
 game (
 	comment "Taisen Mahjong HaoPai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc CF9C607C )
 )
 

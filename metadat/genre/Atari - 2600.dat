@@ -383,7 +383,7 @@ game (
 
 game (
 	comment "Backgammon (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E2A7FFA6 )
 )
 
@@ -395,7 +395,7 @@ game (
 
 game (
 	comment "Backgammon (Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc A3D119C6 )
 )
 
@@ -695,7 +695,7 @@ game (
 
 game (
 	comment "Boggle (USA) (Proto) (1978-08-07)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 26B6BFEF )
 )
 
@@ -1151,7 +1151,7 @@ game (
 
 game (
 	comment "Computer Chess (USA) (Proto)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 0C44D49A )
 )
 
@@ -2603,7 +2603,7 @@ game (
 
 game (
 	comment "Othello (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 171AE72F )
 )
 
@@ -4031,13 +4031,13 @@ game (
 
 game (
 	comment "Video Checkers ~ Checkers (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 3DF33335 )
 )
 
 game (
 	comment "Video Chess (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc B6226A54 )
 )
 

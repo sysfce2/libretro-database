@@ -11,7 +11,7 @@ game (
 
 game (
 	comment "Checkers (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc FDAE7044 )
 )
 
@@ -41,7 +41,7 @@ game (
 
 game (
 	comment "Backgammon, Acey-Deucey (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc A1731B52 )
 )
 
@@ -161,7 +161,7 @@ game (
 
 game (
 	comment "Schach (Germany)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 04FB6DCE )
 )
 

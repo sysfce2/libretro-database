@@ -467,7 +467,7 @@ game (
 
 game (
 	comment "Question of Scruples, A - The Computer Edition (Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 34D8887C )
 )
 
