@@ -2615,7 +2615,7 @@ game (
 
 game (
 	comment "Card Party (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 3D5A2C07 )
 )
 
@@ -2627,13 +2627,13 @@ game (
 
 game (
 	comment "Cardcaptor Sakura - Sakura Card Hen - Sakura to Card to Otomodachi (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc D5BB189C )
 )
 
 game (
 	comment "Cardcaptor Sakura - Sakura Card Hen - Sakura to Card to Otomodachi (Japan) (Rev 1)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 2C8488B2 )
 )
 
@@ -4589,7 +4589,7 @@ game (
 
 game (
 	comment "Dragon Ball Z - Collectible Card Game (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc F6124D7F )
 )
 
@@ -4835,49 +4835,49 @@ game (
 
 game (
 	comment "Duel Masters - Kaijudo Showdown (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 804E5DE2 )
 )
 
 game (
 	comment "Duel Masters - Kaijudo Showdown (Europe) (En,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 52E0AA95 )
 )
 
 game (
 	comment "Duel Masters - Kaijudo Showdown (Europe) (En,Fr,De,Es,It) (Beta)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 84C579DD )
 )
 
 game (
 	comment "Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It) (Beta)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc C3827890 )
 )
 
 game (
 	comment "Duel Masters - Sempai Legends (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 1CE344CA )
 )
 
 game (
 	comment "Duel Masters - Shadow of the Code (Europe) (En,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 9D429F3E )
 )
 
 game (
 	comment "Duel Masters - Sempai Legends (Europe) (En,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 2FFF9BA9 )
 )
 
 game (
 	comment "Duel Masters - Shadow of the Code (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 94D9053D )
 )
 
@@ -8267,7 +8267,7 @@ game (
 
 game (
 	comment "Kid's Cards (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 6F931445 )
 )
 
@@ -10211,25 +10211,25 @@ game (
 
 game (
 	comment "Megaman - Battle Chip Challenge (USA) (Virtual Console)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 59FC1EF6 )
 )
 
 game (
 	comment "Megaman - Battle Chip Challenge (Europe) (Virtual Console)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 24046BF2 )
 )
 
 game (
 	comment "Megaman - Battle Chip Challenge (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 26BE44FD )
 )
 
 game (
 	comment "Megaman - Battle Chip Challenge (Europe)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 5B4631F9 )
 )
 
@@ -13739,7 +13739,7 @@ game (
 
 game (
 	comment "Rockman EXE - Battle Chip GP (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 9217FB18 )
 )
 
@@ -13763,7 +13763,7 @@ game (
 
 game (
 	comment "Rockman EXE - Battle Chip GP (Japan) (Virtual Console)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc F37BF038 )
 )
 
@@ -17453,13 +17453,13 @@ game (
 
 game (
 	comment "Ultimate Card Games (USA, Europe)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 8A0831BD )
 )
 
 game (
 	comment "Ultimate Card Games (USA) (Rev 2)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 94863423 )
 )
 
@@ -17477,7 +17477,7 @@ game (
 
 game (
 	comment "Ultimate Card Games (USA) (Rev 1)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 300F5D25 )
 )
 
@@ -17531,7 +17531,7 @@ game (
 
 game (
 	comment "Uno 52 (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc C659C6DB )
 )
 
@@ -17543,7 +17543,7 @@ game (
 
 game (
 	comment "Uno 52 (Europe) (En,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 315360D0 )
 )
 
@@ -18263,13 +18263,13 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! - 7 Trials to Glory - World Championship Tournament 2005 (USA) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 584DB6A6 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Day of the Duelist - World Championship Tournament 2005 (Europe) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 17988E9B )
 )
 
@@ -18305,13 +18305,13 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! - Reshef of Destruction (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 09E0C559 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Reshef of Destruction (Europe) (En,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 460E073F )
 )
 
@@ -18323,55 +18323,55 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! - The Eternal Duelist Soul (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc DFD07A36 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - The Sacred Cards (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 141FB1CC )
 )
 
 game (
 	comment "Yu-Gi-Oh! - The Sacred Cards (Europe) (En,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc D19DB37C )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Ultimate Masters - World Championship Tournament 2006 (USA) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc F968A196 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Ultimate Masters Edition - World Championship Tournament 2006 (Europe) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc CEDE4060 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - World Championship Tournament 2004 (USA) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 69B6F229 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (USA) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 39B5E771 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - World Championship Tournament 2004 (Europe) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 3C42E84C )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Worldwide Edition - Stairway to the Destined Duel (Europe) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc ACA5FFC6 )
 )
 
@@ -18383,7 +18383,7 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters 5 Expert 1 (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc F3041E7E )
 )
 
@@ -18395,55 +18395,55 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters 7 - Kettou Toshi Densetsu (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc B9BE9B91 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters Expert 2006 (Japan) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 7A1019E6 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters 8 - Hametsu no Daijashin (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 681DAF1F )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters GX - Mezase Duel King! (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc F4295DA8 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters Expert 3 (Japan) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 7AB1EC04 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It) (Rev 1)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 1BECF9D3 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters International - Worldwide Edition (Japan) (En,Ja,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 98507497 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters International 2 (Japan) (En,Ja)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 6DCFB879 )
 )
 
 game (
 	comment "Yu-Gi-Oh! GX - Duel Academy (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 3B8A00FE )
 )
 
@@ -18455,7 +18455,7 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! GX - Duel Academy (Europe)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 3FB2ABDA )
 )
 

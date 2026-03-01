@@ -4007,7 +4007,7 @@ game (
 
 game (
 	comment "Datach - Dragon Ball Z - Gekitou Tenkaichi Budoukai (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 5B76F2E4 )
 )
 
@@ -13379,7 +13379,7 @@ game (
 
 game (
 	comment "Poker II (Asia) (Ja) (Unl)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 4A610592 )
 )
 
@@ -13391,7 +13391,7 @@ game (
 
 game (
 	comment "Poker III (Asia) (Ja) (Unl)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 38755B3F )
 )
 
@@ -15803,7 +15803,7 @@ game (
 
 game (
 	comment "Solitaire (USA) (Unl)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 064C417C )
 )
 
@@ -16379,7 +16379,7 @@ game (
 
 game (
 	comment "Strategist (Asia) (Ja) (NTSC) (Unl)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 78355976 )
 )
 
@@ -16391,7 +16391,7 @@ game (
 
 game (
 	comment "Strategist (Asia) (Ja) (PAL) (Unl)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc D4D8164C )
 )
 

@@ -1055,7 +1055,7 @@ game (
 
 game (
 	comment "Card Sharks (USA) (Proto)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc E2B2DCFE )
 )
 
@@ -5933,7 +5933,7 @@ game (
 
 game (
 	comment "Pokemon Card GB (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 1926F570 )
 )
 
@@ -5945,7 +5945,7 @@ game (
 
 game (
 	comment "Pokemon Card GB 2 - GR Dan Sanjou! (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 6C933A14 )
 )
 
@@ -5987,31 +5987,31 @@ game (
 
 game (
 	comment "Pokemon Trading Card Game (Europe) (En,Es,It) (SGB Enhanced) (GB Compatible)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 966DAEF1 )
 )
 
 game (
 	comment "Pokemon Trading Card Game (Europe) (En,Fr,De) (SGB Enhanced) (GB Compatible)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 4523376E )
 )
 
 game (
 	comment "Pokemon Trading Card Game (USA, Australia) (SGB Enhanced) (GB Compatible)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 81069D53 )
 )
 
 game (
 	comment "Pokemon Trading Card Game (Europe) (En,Fr,De) (Rev 1) (SGB Enhanced) (GB Compatible)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 942D0B7F )
 )
 
 game (
 	comment "Pokemon Trading Card Game (Europe) (En,Es,It) (Rev 1) (SGB Enhanced) (GB Compatible)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 3F1D7E58 )
 )
 
@@ -8543,13 +8543,13 @@ game (
 
 game (
 	comment "Uno (Europe) (En,Fr,De,Es,It,Nl) (GB Compatible)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 70760CCE )
 )
 
 game (
 	comment "Uno (USA) (GB Compatible)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc F026D509 )
 )
 
@@ -8993,43 +8993,43 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! - Dark Duel Stories (Europe)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 338E2CDA )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Dark Duel Stories (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 803A56AE )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Dark Duel Stories (Europe) (Beta)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 1A60F198 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Das Dunkle Duell (Germany)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 6CA75BA0 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Duel des Tenebres (France) (Beta)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc C0DD1B26 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Duel des Tenebres (France)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 5B72BAB5 )
 )
 
 game (
 	comment "Yu-Gi-Oh! - Duelo en las Tinieblas (Spain)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc DC160F10 )
 )
 
@@ -9041,37 +9041,37 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! - Racconti Oscuri (Italy)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 8A6B0948 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Jounouchi Deck (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 298BD054 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Kaiba Deck (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc A4D06001 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters II - Dark Duel Stories (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc BA7182C3 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters III - Tri Holy God Advant (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 9F9DBAB4 )
 )
 
 game (
 	comment "Yu-Gi-Oh! Duel Monsters 4 - Battle of Great Duelist - Yuugi Deck (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 4D6105F6 )
 )
 

@@ -137,13 +137,13 @@ game (
 
 game (
 	comment "Bishoujo Alien Battle (Japan) (Unl)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc E89FED10 )
 )
 
 game (
 	comment "Bishoujo Alien Battle (Japan) (Unl) (Alt) [b]"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc BD94735E )
 )
 
@@ -305,13 +305,13 @@ game (
 
 game (
 	comment "Comic Sakka Series Touma Senki #4 - Tenkuu Ryuumaou Fukkatsu (Japan) (Unl)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc EDDB3816 )
 )
 
 game (
 	comment "Comic Sakka Series Touma Senki #5 - Youjuu Rudo no Chousen (Japan) (Unl)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc A3BD4E0B )
 )
 

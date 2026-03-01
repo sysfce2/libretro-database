@@ -2531,7 +2531,7 @@ game (
 
 game (
 	comment "Chibi Maruko-chan - Harikiri 365-nichi no Maki (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 846151C8 )
 )
 
@@ -19277,13 +19277,13 @@ game (
 
 game (
 	comment "Super Solitaire (Europe) (En,Fr,De,Es,It) (Proto)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 933228F3 )
 )
 
 game (
 	comment "Super Solitaire (USA) (En,Fr,De,Es,It)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc C8E80D55 )
 )
 
@@ -19607,13 +19607,13 @@ game (
 
 game (
 	comment "Super Trump Collection (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc BB9F8083 )
 )
 
 game (
 	comment "Super Trump Collection 2 (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 22711FC8 )
 )
 
@@ -19697,19 +19697,19 @@ game (
 
 game (
 	comment "Super Uno (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 61441201 )
 )
 
 game (
 	comment "Super Uno (Japan) (Rev 1)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc AA0A7C43 )
 )
 
 game (
 	comment "Super Uno (Japan) (Beta)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 1B751AAA )
 )
 
@@ -20087,7 +20087,7 @@ game (
 
 game (
 	comment "Tarot Mystery (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 3CE00F85 )
 )
 
@@ -21221,7 +21221,7 @@ game (
 
 game (
 	comment "Trump Island (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 62830BEF )
 )
 

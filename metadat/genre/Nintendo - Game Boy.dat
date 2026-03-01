@@ -749,7 +749,7 @@ game (
 
 game (
 	comment "Battle of Kingdom (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 35914DEB )
 )
 
@@ -1361,7 +1361,7 @@ game (
 
 game (
 	comment "Card Game (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc D05F4C90 )
 )
 
@@ -2393,7 +2393,7 @@ game (
 
 game (
 	comment "Dungeon Land (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 11BE4B45 )
 )
 
@@ -3647,7 +3647,7 @@ game (
 
 game (
 	comment "Ishida Yoshio Tsumego Paradise (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc C97DAACA )
 )
 
@@ -3725,19 +3725,19 @@ game (
 
 game (
 	comment "Janshirou II - Sekai Saikyou no Janshi (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 2812036B )
 )
 
 game (
 	comment "Janshirou (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 0530E1CC )
 )
 
 game (
 	comment "Jantaku Boy (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 04DAA03B )
 )
 
@@ -5213,7 +5213,7 @@ game (
 
 game (
 	comment "Momotarou Dentetsu jr. - Zenkoku Ramen Meguri no Maki (Japan) (SGB Enhanced)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 218265B3 )
 )
 
@@ -6269,7 +6269,7 @@ game (
 
 game (
 	comment "Panel Action Bingo (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc D000A116 )
 )
 
@@ -8561,7 +8561,7 @@ game (
 
 game (
 	comment "Super Momotarou Dentetsu II (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc E8B4891F )
 )
 
@@ -9479,13 +9479,13 @@ game (
 
 game (
 	comment "Uno - Small World (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc A37C022D )
 )
 
 game (
 	comment "Uno 2 - Small World (Japan) (SGB Enhanced)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc A7AD65EF )
 )
 

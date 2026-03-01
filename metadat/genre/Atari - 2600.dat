@@ -773,19 +773,19 @@ game (
 
 game (
 	comment "Bridge (USA) (v1.1)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 8DB95D1E )
 )
 
 game (
 	comment "Bridge (Europe)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 63CEEB81 )
 )
 
 game (
 	comment "Bridge (USA)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 9C71D175 )
 )
 

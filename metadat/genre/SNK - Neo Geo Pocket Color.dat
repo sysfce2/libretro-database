@@ -635,7 +635,7 @@ game (
 
 game (
 	comment "SNK vs. Capcom - Card Fighters 2 - Expand Edition (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc CCBCFDA7 )
 )
 
@@ -659,7 +659,7 @@ game (
 
 game (
 	comment "SNK vs. Capcom - Gekitotsu Card Fighters - Capcom Supporter Version (Japan)"
-	genre "Playing cards"
+	genre "Card"
 	rom ( crc 9217159B )
 )
 
