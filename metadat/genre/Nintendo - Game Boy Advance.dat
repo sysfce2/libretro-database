@@ -1121,7 +1121,7 @@ game (
 
 game (
 	comment "Animal Snap - Rescue Them 2 by 2 (Europe)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 25015475 )
 )
 
@@ -1133,7 +1133,7 @@ game (
 
 game (
 	comment "Animal Snap - Rescue Them 2 by 2 (USA)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7304DCA4 )
 )
 
@@ -1391,7 +1391,7 @@ game (
 
 game (
 	comment "Azumanga Daiou Advance (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 216704F6 )
 )
 
@@ -2069,13 +2069,13 @@ game (
 
 game (
 	comment "Board Game Classics - Backgammon & Chess & Draughts (Europe) (En,Fr,De,Es,It)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E5C745D8 )
 )
 
 game (
 	comment "Board Game Classics (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 69D760BB )
 )
 
@@ -2717,7 +2717,7 @@ game (
 
 game (
 	comment "Cartoon Network Block Party (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc EDC0CCEE )
 )
 
@@ -2951,7 +2951,7 @@ game (
 
 game (
 	comment "Chessmaster (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 25B0E933 )
 )
 
@@ -2963,19 +2963,19 @@ game (
 
 game (
 	comment "Chessmaster (Germany)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 06ABACC5 )
 )
 
 game (
 	comment "Chessmaster (Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 27E7FD09 )
 )
 
 game (
 	comment "Chessmaster (France)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 55EF8392 )
 )
 
@@ -3041,7 +3041,7 @@ game (
 
 game (
 	comment "Chocobo Land - A Game of Dice (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc D4F8152E )
 )
 
@@ -3641,7 +3641,7 @@ game (
 
 game (
 	comment "Dai-mahjong. (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C6CCCA05 )
 )
 
@@ -4175,7 +4175,7 @@ game (
 
 game (
 	comment "Disney's Party (USA, Europe) (En,Fr,De,Es,It)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 6BB63774 )
 )
 
@@ -4295,13 +4295,13 @@ game (
 
 game (
 	comment "Dokodemo Taikyoku - Yakuman Advance (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A7279ED5 )
 )
 
 game (
 	comment "Dokodemo Taikyoku - Yakuman Advance (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C2424EDD )
 )
 
@@ -4421,7 +4421,7 @@ game (
 
 game (
 	comment "Doraemon - Dokodemo Walker (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E28AFEBC )
 )
 
@@ -5195,13 +5195,13 @@ game (
 
 game (
 	comment "EX Monopoly (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 916EFD5B )
 )
 
 game (
 	comment "EX Monopoly (Japan) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc D45ABF21 )
 )
 
@@ -6293,7 +6293,7 @@ game (
 
 game (
 	comment "Fushigi no Kuni no Alice (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 2CDA40E1 )
 )
 
@@ -6305,7 +6305,7 @@ game (
 
 game (
 	comment "Fushigi no Kuni no Angelique (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 803FC474 )
 )
 
@@ -6413,7 +6413,7 @@ game (
 
 game (
 	comment "Gambler Densetsu Tetsuya - Yomigaeru Densetsu (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 8A879018 )
 )
 
@@ -6737,7 +6737,7 @@ game (
 
 game (
 	comment "Green Eggs and Ham by Dr. Seuss (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E4AE2CD1 )
 )
 
@@ -7055,7 +7055,7 @@ game (
 
 game (
 	comment "Hanafuda Trump Mahjong - Depachika Wayouchuu (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc DE7B8DCD )
 )
 
@@ -7331,19 +7331,19 @@ game (
 
 game (
 	comment "Hikaru no Go (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 53116FD7 )
 )
 
 game (
 	comment "Hikaru no Go (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5A6C7537 )
 )
 
 game (
 	comment "Hikaru no Go - Taikenban (Japan) (Demo)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4955FA1B )
 )
 
@@ -7757,7 +7757,7 @@ game (
 
 game (
 	comment "Inuyasha - Naraku no Wana! Mayoi no Mori no Shoutaijou (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 8FCDF69C )
 )
 
@@ -7823,7 +7823,7 @@ game (
 
 game (
 	comment "Isseki Hatchou - Kore 1ppon de 8shurui! (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc CB5EFF64 )
 )
 
@@ -7955,7 +7955,7 @@ game (
 
 game (
 	comment "Jinsei Game Advance (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 84A4A304 )
 )
 
@@ -8129,7 +8129,7 @@ game (
 
 game (
 	comment "Kami no Kijutsu - Illusion of the Evil Eyes (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 906C73AD )
 )
 
@@ -8555,7 +8555,7 @@ game (
 
 game (
 	comment "Kiwame Mahjong Deluxe - Mirai Senshi 21 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 66F7614B )
 )
 
@@ -9317,7 +9317,7 @@ game (
 
 game (
 	comment "M&M's - Blast! (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc AD38C301 )
 )
 
@@ -9509,7 +9509,7 @@ game (
 
 game (
 	comment "Mahjong Keiji (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc AD32A2D3 )
 )
 
@@ -9749,31 +9749,31 @@ game (
 
 game (
 	comment "Mario Party Advance (USA) (Virtual Console)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 1D910A62 )
 )
 
 game (
 	comment "Mario Party Advance (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc BAA4A82B )
 )
 
 game (
 	comment "Mario Party Advance (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc F094A4CB )
 )
 
 game (
 	comment "Mario Party Advance (Europe) (En,Fr,De,Es,It) (Virtual Console)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 46C66F40 )
 )
 
 game (
 	comment "Mario Party Advance (Japan) (Virtual Console)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 9CD07025 )
 )
 
@@ -9785,7 +9785,7 @@ game (
 
 game (
 	comment "Mario Party Advance (Europe) (En,Fr,De,Es,It)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc C8C889E2 )
 )
 
@@ -10613,7 +10613,7 @@ game (
 
 game (
 	comment "Mermaid Melody - Pichi Pichi Pitch (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 63F72589 )
 )
 
@@ -10781,7 +10781,7 @@ game (
 
 game (
 	comment "Mickey no Pocket Resort (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc EDB264B8 )
 )
 
@@ -10889,7 +10889,7 @@ game (
 
 game (
 	comment "Minna no Ouji-sama (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 19DC05E6 )
 )
 
@@ -10901,19 +10901,19 @@ game (
 
 game (
 	comment "Minna no Soft Series - Happy Trump 20 (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc D0EF2BC4 )
 )
 
 game (
 	comment "Minna no Soft Series - Minna no Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 66B779B0 )
 )
 
 game (
 	comment "Minna no Soft Series - Minna no Shougi (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C62C15C6 )
 )
 
@@ -10943,7 +10943,7 @@ game (
 
 game (
 	comment "Minna no Soft Series - Minna no Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 08B62391 )
 )
 
@@ -11009,19 +11009,19 @@ game (
 
 game (
 	comment "Momotarou Dentetsu G - Gold Deck o Tsukure! (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 5F3E184E )
 )
 
 game (
 	comment "Monopoly (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc B01CBC07 )
 )
 
 game (
 	comment "Monopoly (Europe) (En,Fr,De,Es)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 7B113397 )
 )
 
@@ -11213,7 +11213,7 @@ game (
 
 game (
 	comment "Morita Shougi Advance (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 149E01B7 )
 )
 
@@ -11453,7 +11453,7 @@ game (
 
 game (
 	comment "Nakayoshi Mahjong - KabuReach (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D0C608F6 )
 )
 
@@ -11753,7 +11753,7 @@ game (
 
 game (
 	comment "Nihon Pro Mahjong Renmei Kounin - Tetsuman Advance - Menkyo Kaiden Series (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 085C1184 )
 )
 
@@ -11843,7 +11843,7 @@ game (
 
 game (
 	comment "Okumanchouja Game - Nottori Daisakusen! (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 07022C3A )
 )
 
@@ -13217,7 +13217,7 @@ game (
 
 game (
 	comment "Pro Mahjong Tsuwamono GBA (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc E4D9AE55 )
 )
 
@@ -13973,7 +13973,7 @@ game (
 
 game (
 	comment "Saibara Rieko no Dendou Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 02B9F82D )
 )
 
@@ -14027,7 +14027,7 @@ game (
 
 game (
 	comment "Sanrio Puroland - All Characters (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 5257BD92 )
 )
 
@@ -14159,7 +14159,7 @@ game (
 
 game (
 	comment "Scrabble (Europe) (En,Fr,De,Es)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc C5C9B31B )
 )
 
@@ -14369,7 +14369,7 @@ game (
 
 game (
 	comment "Shanghai Advance (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9AEEA9B7 )
 )
 
@@ -14417,7 +14417,7 @@ game (
 
 game (
 	comment "Shimura Ken no Baka Tonosama - Bakushou Tenka Touitsu Game (Japan) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 5546B016 )
 )
 
@@ -14435,7 +14435,7 @@ game (
 
 game (
 	comment "Shimura Ken no Baka Tonosama - Bakushou Tenka Touitsu Game (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc F29E6E2D )
 )
 
@@ -14777,13 +14777,13 @@ game (
 
 game (
 	comment "Simple 2960 Tomodachi Series Vol. 3 - The Itsudemo Puzzle - Massugu Soroete Straws (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 49B92627 )
 )
 
 game (
 	comment "Simple 2960 Tomodachi Series Vol. 1 - The Table Game Collection - Mahjong, Shougi, Hanafuda, Reversi (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 8B72BA3C )
 )
 
@@ -16229,7 +16229,7 @@ game (
 
 game (
 	comment "Super Real Mahjong Dousoukai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9E90456B )
 )
 
@@ -16745,7 +16745,7 @@ game (
 
 game (
 	comment "Three-in-One Pack - Risk + Battleship + Clue (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc F6F70922 )
 )
 
@@ -16757,13 +16757,13 @@ game (
 
 game (
 	comment "Three-in-One Pack - Connect Four + Perfection + Trouble (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc D482421E )
 )
 
 game (
 	comment "Three-in-One Pack - Risk + Battleship + Clue (USA) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 15C24091 )
 )
 
@@ -16775,7 +16775,7 @@ game (
 
 game (
 	comment "Three-in-One Pack - Sorry! + Aggravation + Scrabble Junior (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 111EB61A )
 )
 
@@ -17225,7 +17225,7 @@ game (
 
 game (
 	comment "Touhai Densetsu Akagi - Yami ni Mai Orita Tensai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 14EB6587 )
 )
 
@@ -17447,7 +17447,7 @@ game (
 
 game (
 	comment "Ultimate Brain Games (USA, Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc B6C9F401 )
 )
 
@@ -17645,13 +17645,13 @@ game (
 
 game (
 	comment "Virtual Kasparov (Europe) (En,Fr,De,Es,It)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 23B92CF7 )
 )
 
 game (
 	comment "Virtual Kasparov (USA) (En,Fr,De,Es,It)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 815B722F )
 )
 
@@ -18275,7 +18275,7 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! - Destiny Board Traveler (USA)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 611E7BBD )
 )
 
@@ -18287,7 +18287,7 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! - Destiny Board Traveler (Europe) (En,Fr,De,Es,It)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc AE1A8E9D )
 )
 
@@ -18317,7 +18317,7 @@ game (
 
 game (
 	comment "Yu-Gi-Oh! - Sugoroku no Sugoroku (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 8D52B3C5 )
 )
 

@@ -251,25 +251,25 @@ game (
 
 game (
 	comment "BS Nichibutsu Mahjong - Mahjong Taikai (Japan) (10-17)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3B12AF9A )
 )
 
 game (
 	comment "BS Nichibutsu Mahjong - Renshuu Mahjong - Ichimantou (Japan) (SoundLink)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9CDE21D5 )
 )
 
 game (
 	comment "BS Nichibutsu Mahjong - Mahjong Taikai (Japan) (10-27)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C2B6BA5B )
 )
 
 game (
 	comment "BS Nichibutsu Mahjong - Renshuu Mahjong - Nimantou (Japan) (SoundLink)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C56B108E )
 )
 
@@ -479,7 +479,7 @@ game (
 
 game (
 	comment "Daibakushou Jinsei Gekijou (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 5EB7A3E5 )
 )
 
@@ -599,13 +599,13 @@ game (
 
 game (
 	comment "Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan) (12-20)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F9E8A8EE )
 )
 
 game (
 	comment "Gambler Jiko Chuushinha 2 - Dorapon Quest (Japan) (12-19)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 11B8E93A )
 )
 
@@ -617,7 +617,7 @@ game (
 
 game (
 	comment "Heisei Gunjin Shougi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B8B4E75A )
 )
 
@@ -653,19 +653,19 @@ game (
 
 game (
 	comment "Kodomo Chousadan Mighty Pockets - Chousa 1 - Junk-ya Black no Ie (Japan) (SoundLink) [b]"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 85EBB7CC )
 )
 
 game (
 	comment "Kodomo Chousadan Mighty Pockets - Chousa 2 - Hanzai Toshi Big Apple (Japan) (SoundLink) [b]"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 188C9ACB )
 )
 
 game (
 	comment "Kodomo Chousadan Mighty Pockets - Chousa 3 - Kyakusen Queen Patra no Nazo (Japan) (SoundLink)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 9910C393 )
 )
 
@@ -821,7 +821,7 @@ game (
 
 game (
 	comment "Shanghai - Banri no Choujou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc BD681869 )
 )
 
@@ -857,7 +857,7 @@ game (
 
 game (
 	comment "Super Mahjong Taikai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 881A70FD )
 )
 
@@ -881,13 +881,13 @@ game (
 
 game (
 	comment "Super Tsumeshougi 1000 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 66180ABE )
 )
 
 game (
 	comment "Table Game Daisyugo!! Shougi Mahjong Hanafuda (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 47E3047E )
 )
 
@@ -1007,13 +1007,13 @@ game (
 
 game (
 	comment "Zootto Mahjong! - Event Version (Japan) [b]"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5D2C918D )
 )
 
 game (
 	comment "Zootto Mahjong! - Preview Ban (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5185292F )
 )
 

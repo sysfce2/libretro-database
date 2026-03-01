@@ -119,7 +119,7 @@ game (
 
 game (
 	comment "Chess (Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 77066338 )
 )
 

@@ -545,19 +545,19 @@ game (
 
 game (
 	comment "Home Mahjong (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc E7E0F0E3 )
 )
 
 game (
 	comment "Home Mahjong (Taiwan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc AEA5A89A )
 )
 
 game (
 	comment "Home Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C9D1AE7D )
 )
 
@@ -653,19 +653,19 @@ game (
 
 game (
 	comment "Mahjong (Japan) (Rev 1)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 1C137CAB )
 )
 
 game (
 	comment "Mahjong (Taiwan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc BC823A89 )
 )
 
 game (
 	comment "Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6D909857 )
 )
 
@@ -749,13 +749,13 @@ game (
 
 game (
 	comment "Othello (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc AF4F14BC )
 )
 
 game (
 	comment "Othello (Taiwan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F5F77820 )
 )
 
@@ -917,19 +917,19 @@ game (
 
 game (
 	comment "San-nin Mahjong (Japan) (Othello Multivision)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 885FA64D )
 )
 
 game (
 	comment "San-nin Mahjong (Taiwan) (Othello Multivision) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc FC574C15 )
 )
 
 game (
 	comment "San-nin Mahjong (Japan) (Othello Multivision) (Alt)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc FC574C15 )
 )
 

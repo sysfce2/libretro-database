@@ -497,13 +497,13 @@ game (
 
 game (
 	comment "Backgammon (Europe) (En,Fr,De,Es) (GB Compatible)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc D33D6F7B )
 )
 
 game (
 	comment "Backgammon (Japan) (GB Compatible)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 712A49B3 )
 )
 
@@ -719,13 +719,13 @@ game (
 
 game (
 	comment "Beauty and the Beast - A Board Game Adventure (USA, Australia) (SGB Enhanced) (GB Compatible)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 6DE1D581 )
 )
 
 game (
 	comment "Beauty and the Beast - A Board Game Adventure (Europe) (En,Fr,De,Es,It) (SGB Enhanced) (GB Compatible)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E4C410F0 )
 )
 
@@ -1217,7 +1217,7 @@ game (
 
 game (
 	comment "Checkmate (Japan) (En,Ja) (GB Compatible)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 1AAB415D )
 )
 
@@ -1517,13 +1517,13 @@ game (
 
 game (
 	comment "Dejiko no Mahjong Party (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C5501FCE )
 )
 
 game (
 	comment "Dejiko no Mahjong Party (Japan) (Rev 1) (Proto)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7E515A7E )
 )
 
@@ -2069,13 +2069,13 @@ game (
 
 game (
 	comment "DX Jinsei Game (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 7E15B3DD )
 )
 
 game (
 	comment "DX Monopoly GB (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 3F1E076C )
 )
 
@@ -2585,7 +2585,7 @@ game (
 
 game (
 	comment "GB Karan Koron Gakuen - Hanafuda Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc AABA1EA4 )
 )
 
@@ -3125,25 +3125,25 @@ game (
 
 game (
 	comment "Honkaku Hanafuda GB (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 05DCBD55 )
 )
 
 game (
 	comment "Honkaku Shougi - Shougi Ou (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3A96E868 )
 )
 
 game (
 	comment "Honkaku Taisen Shougi Ayumu (Japan) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 89140949 )
 )
 
 game (
 	comment "Honkaku Yonin Uchi Mahjong - Mahjong Ou (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 8ED4BBBA )
 )
 
@@ -3227,7 +3227,7 @@ game (
 
 game (
 	comment "Ide Yousuke no Mahjong Kyoushitsu GB (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 61DF88CA )
 )
 
@@ -3341,7 +3341,7 @@ game (
 
 game (
 	comment "Jankyuusei - Cosplay Paradise (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D60E1C0A )
 )
 
@@ -3425,19 +3425,19 @@ game (
 
 game (
 	comment "Jissen ni Yakudatsu Tsumego (Japan) (Rev 1)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 55EFA05E )
 )
 
 game (
 	comment "Jinsei Game - Tomodachi Takusan Tsukurou yo! (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc C8D46E99 )
 )
 
 game (
 	comment "Jissen ni Yakudatsu Tsumego (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 69C6DBEF )
 )
 
@@ -3455,7 +3455,7 @@ game (
 
 game (
 	comment "Joryuu Janshi ni Chousen GB - Watashi-tachi ni Chousen Shitene! (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9FA5CDB5 )
 )
 
@@ -3563,7 +3563,7 @@ game (
 
 game (
 	comment "Katou Hifumi Kudan - Shougi Kyoushitsu (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A262269F )
 )
 
@@ -3641,7 +3641,7 @@ game (
 
 game (
 	comment "Kidou Senkan Nadesico - Ruri Ruri Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6427CD7A )
 )
 
@@ -4439,13 +4439,13 @@ game (
 
 game (
 	comment "Mahjong Joou (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 7D83A5E8 )
 )
 
 game (
 	comment "Mahjong Quest (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C870B88F )
 )
 
@@ -4859,13 +4859,13 @@ game (
 
 game (
 	comment "Minna no Shougi - Shokyuu Hen (Japan) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5CB4FC8A )
 )
 
 game (
 	comment "Minna no Shougi - Shokyuu Hen (Japan) (Rev 1) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F766015A )
 )
 
@@ -4925,13 +4925,13 @@ game (
 
 game (
 	comment "Monopoly (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 0503E567 )
 )
 
 game (
 	comment "Monopoly (USA) (GB Compatible)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc E559A717 )
 )
 
@@ -5453,7 +5453,7 @@ game (
 
 game (
 	comment "Ojarumaru - Tsukiyo ga Ike no Takaramono (Japan) (GB Compatible)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc ED7461D2 )
 )
 
@@ -5465,7 +5465,7 @@ game (
 
 game (
 	comment "Othello Millennium (Japan) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C7800576 )
 )
 
@@ -5639,7 +5639,7 @@ game (
 
 game (
 	comment "Pocket Color Mahjong (Japan) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 08DC0AF4 )
 )
 
@@ -5687,7 +5687,7 @@ game (
 
 game (
 	comment "Pocket Hanafuda (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc AF0C51B8 )
 )
 
@@ -6239,13 +6239,13 @@ game (
 
 game (
 	comment "Pro Mahjong Kiwame II GB (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 14F91F86 )
 )
 
 game (
 	comment "Pro Mahjong Tsuwamono GB 2 (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F03016F5 )
 )
 
@@ -6869,7 +6869,7 @@ game (
 
 game (
 	comment "Sakata Gorou Kudan no Renju Kyoushitsu (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B5412C6F )
 )
 
@@ -6959,7 +6959,7 @@ game (
 
 game (
 	comment "Sei Hai Densetsu (Japan) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 8804F856 )
 )
 
@@ -7067,25 +7067,25 @@ game (
 
 game (
 	comment "Shanghai Pocket (Europe) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9401BA47 )
 )
 
 game (
 	comment "Shanghai Pocket (Europe) (Rev 1) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D8FAC36C )
 )
 
 game (
 	comment "Shanghai Pocket (USA) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A5E3ECE9 )
 )
 
 game (
 	comment "Shanghai Pocket (USA) (Rev 1) (Proto) (SGB Enhanced) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc D529DAFD )
 )
 
@@ -7151,7 +7151,7 @@ game (
 
 game (
 	comment "Shinseiki Evangelion - Mahjong Hokan Keikaku (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 5337FF55 )
 )
 
@@ -7163,13 +7163,13 @@ game (
 
 game (
 	comment "Shougi 3 (Japan) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 64B479FA )
 )
 
 game (
 	comment "Shougi 2 (Japan) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A7748D2B )
 )
 
@@ -7781,7 +7781,7 @@ game (
 
 game (
 	comment "Taisen Tsume Shougi (Japan) (NP) (GB Compatible)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 95310C8B )
 )
 

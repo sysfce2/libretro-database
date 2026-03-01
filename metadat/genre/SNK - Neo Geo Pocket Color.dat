@@ -143,7 +143,7 @@ game (
 
 game (
 	comment "Dokodemo Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 78C21B5E )
 )
 
@@ -233,19 +233,19 @@ game (
 
 game (
 	comment "King of Fighters, The - Battle de Paradise (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 77E37BAC )
 )
 
 game (
 	comment "Koi Koi Mahjong (Japan) (v0B)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc B51C3EBA )
 )
 
 game (
 	comment "Koi Koi Mahjong (Japan) (v08)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 021F7D0C )
 )
 
@@ -623,7 +623,7 @@ game (
 
 game (
 	comment "Shougi no Tatsujin Color (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 1F2872ED )
 )
 
@@ -701,13 +701,13 @@ game (
 
 game (
 	comment "Soreike!! Hanafuda Doujou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 05FA3EB0 )
 )
 
 game (
 	comment "Super Real Mahjong - Premium Collection (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc C6E620C3 )
 )
 

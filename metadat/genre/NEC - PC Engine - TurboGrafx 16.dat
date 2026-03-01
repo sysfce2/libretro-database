@@ -5,7 +5,7 @@ clrmamepro (
 
 game (
 	comment "21 Emon - Mezase Hotel Ou!! (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 73614660 )
 )
 
@@ -1025,7 +1025,7 @@ game (
 
 game (
 	comment "Idol Hanafuda Fan Club (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 9EC6FC6C )
 )
 
@@ -1211,13 +1211,13 @@ game (
 
 game (
 	comment "Kyuukyoku Mahjong II (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc E5B6B3E5 )
 )
 
 game (
 	comment "Kyuukyoku Mahjong - Idol Graphics (Japan) (Unl)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 02DDE03E )
 )
 
@@ -1283,31 +1283,31 @@ game (
 
 game (
 	comment "Mahjong Gakuen - Touma Soushirou Toujou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F5B90D55 )
 )
 
 game (
 	comment "Mahjong Gakuen Mild - Touma Soushirou Toujou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F4148600 )
 )
 
 game (
 	comment "Mahjong Gokuu Special (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc F8861456 )
 )
 
 game (
 	comment "Mahjong Shikaku Retsuden - Mahjong Wars (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 6C34AAEA )
 )
 
 game (
 	comment "Mahjong Haouden - Kaiser's Quest (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc DF10C895 )
 )
 
@@ -1403,7 +1403,7 @@ game (
 
 game (
 	comment "Morita Shougi PC (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 2546EFE0 )
 )
 
@@ -2009,7 +2009,7 @@ game (
 
 game (
 	comment "Sengoku Mahjong (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 90E6BF49 )
 )
 
@@ -2039,13 +2039,13 @@ game (
 
 game (
 	comment "Shougi Shodan Icchokusen (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 23EC8970 )
 )
 
 game (
 	comment "Shougi Shoshinsha Muyou (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 457F2BC4 )
 )
 
@@ -2189,7 +2189,7 @@ game (
 
 game (
 	comment "Stratego (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 727F4656 )
 )
 
@@ -2213,19 +2213,19 @@ game (
 
 game (
 	comment "Super Momotarou Dentetsu (Japan) (Alt)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 69D52E7A )
 )
 
 game (
 	comment "Super Momotarou Dentetsu II (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 2BC023FC )
 )
 
 game (
 	comment "Super Momotarou Dentetsu (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 3EB5304A )
 )
 
@@ -2537,7 +2537,7 @@ game (
 
 game (
 	comment "Wai Wai Mahjong - Yukai na Janyuu-tachi (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc A2A0776E )
 )
 
@@ -2627,7 +2627,7 @@ game (
 
 game (
 	comment "You-You Jinsei (Japan)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc C0905CA9 )
 )
 

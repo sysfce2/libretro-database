@@ -173,7 +173,7 @@ game (
 
 game (
 	comment "Fidelity Ultimate Chess Challenge, The (USA, Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 7E4B5945 )
 )
 
@@ -299,7 +299,7 @@ game (
 
 game (
 	comment "Lynx Casino (USA, Europe)"
-	genre "Board game"
+	genre "Board"
 	rom ( crc 1091A268 )
 )
 
@@ -455,7 +455,7 @@ game (
 
 game (
 	comment "Shanghai (USA, Europe)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 192BCD04 )
 )
 

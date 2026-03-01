@@ -383,7 +383,7 @@ game (
 
 game (
 	comment "Kitahei (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 0767AF40 )
 )
 
@@ -557,7 +557,7 @@ game (
 
 game (
 	comment "Professional Mahjong Gokuu (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 2ABB1EC4 )
 )
 
@@ -611,7 +611,7 @@ game (
 
 game (
 	comment "Shanghai (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 3B815DC6 )
 )
 

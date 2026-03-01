@@ -11,7 +11,7 @@ game (
 
 game (
 	comment "Gegege no Kitarou - Youkai Donjara (Japan)"
-	genre "Asiatic board game"
+	genre "Board"
 	rom ( crc 4296500D )
 )
 
